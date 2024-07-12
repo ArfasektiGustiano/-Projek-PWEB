@@ -31,7 +31,7 @@
 
 .foto {
     border: 1px solid green;
-    width: 500px;
+    width: 300px;
     margin-bottom: 20px;
     float: right;
     padding: 30px;
@@ -40,9 +40,9 @@
 }
 
 .foto img {
-    border-radius: 80%;
-    width: 300px;
-    height: 300px;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
     margin-top: 20%;
     object-fit: cover;
     float: right;
