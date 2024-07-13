@@ -19,7 +19,7 @@
         <tr><h2 style="padding-left: 100px; padding-top: 25px;">Masukkan Nilai Yang Ingin DiCek</h2></tr>   
         <tr>
         <!-- Penginputan Bilangan yang akan Dicek -->
-        <form action="PWeb2021-ReniMamila-Tugas10.1 Output.php" method="GET">
+        <form action="PWeb2024-M. Arafsekti Gustiano-Tugas10.1 Output.php" method="GET">
         <td>
             <div class="input-field">
                 <i class="fas fa-user"></i>
@@ -35,7 +35,7 @@
 </div> 
 <footer>
     <div class="container">
-        <small>Dibuat &copy; 2021 - ReniMamila.</small>
+        <small>Dibuat &copy; 2024 - M. Arafsekti Gustiano.</small>
     </div>
 </footer> 
 
